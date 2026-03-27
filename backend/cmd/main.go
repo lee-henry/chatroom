@@ -1,10 +1,9 @@
-package server
+package main
 
 import (
 	"fmt"
-	"github.com/gorilla/websocket"
+	// "github.com/gorilla/websocket"
 )
-
 
 func main() {
 	fmt.Println("server")

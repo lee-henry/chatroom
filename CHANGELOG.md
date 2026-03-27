@@ -1,3 +1,17 @@
+## [未發布] - 2026-03-27
+
+### feat
+- client: 新增 WebSocket 客戶端終端機互動輸入功能與退出機制
+- backend: 新增 hub、handle 與 kafka 骨架代碼
+
+### refactor
+- backend: 修正 main.go 套件名稱為 main 並移除未引用的套件
+
+### docs
+- readme: 將即時通訊系統設計策略整併至 README.md
+
+---
+
 ## [未發布] - 2026-03-17
 
 ### refactor
